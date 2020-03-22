@@ -270,6 +270,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.1",
     "@hot-loader/react-dom": "^16.12.0",
+    "@xstate/react": "^0.8.1",
     "core-js": "^3.6.4",
     "devtron": "^1.4.0",
     "electron-debug": "^3.0.1",
@@ -281,7 +282,8 @@
     "react-hot-loader": "^4.12.19",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
-    "source-map-support": "^0.5.16"
+    "source-map-support": "^0.5.16",
+    "xstate": "^4.8.0"
   },
   "devEngines": {
     "node": ">=7.x",
